@@ -1,3 +1,3 @@
 @echo off
-Spammer.exe
+py Spammer.py
 pause
